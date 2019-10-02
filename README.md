@@ -1,3 +1,3 @@
 # hw2_shellcode
 hw2
-32位元和64位元的shellcode攻擊腳本
+32位元和64位元的shellcode自動攻擊腳本，因ASLR位置不定需要不斷猜測
